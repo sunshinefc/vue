@@ -10,7 +10,7 @@
     6、git commit -m '...'
     7、git push 用户名 密码
     8、管理分支
-       git cranch gh-pages
+       git branch gh-pages
        git checkout gh-pages
        git merge master
-       git oush --set-upstream origin gh-pages 用户名 密码
+       git push --set-upstream origin gh-pages 用户名 密码
