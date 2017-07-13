@@ -1,4 +1,4 @@
-<p>
+
 使用git做笔记
 一、安装node git cnpm  sass
 二、上传分支步骤
@@ -14,4 +14,3 @@
        git checkout gh-pages
        git merge master
        git oush --set-upstream origin gh-pages 用户名 密码
-</p>
