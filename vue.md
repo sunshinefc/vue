@@ -1,4 +1,6 @@
 
+命令框    window+R
+
 使用git做笔记
 一、安装node git cnpm  sass
 sass 监听node-sass  -w  index.scss  index.css  --output-style  expanded
