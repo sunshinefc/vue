@@ -1,6 +1,7 @@
 
 使用git做笔记
 一、安装node git cnpm  sass
+sass 监听node-sass  -w  index.scss  index.css  --output-style  expanded
 二、上传分支步骤
     1、新建项目
     2、在桌面上新建文件夹  new
