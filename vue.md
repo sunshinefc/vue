@@ -1,4 +1,4 @@
-
+<pre>
 命令框    window+R
 
 使用git做笔记
@@ -17,3 +17,4 @@ sass 监听node-sass  -w  index.scss  index.css  --output-style  expanded
        git checkout gh-pages
        git merge master
        git push --set-upstream origin gh-pages 用户名 密码
+ </pre>
