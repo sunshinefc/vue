@@ -1,4 +1,6 @@
 <pre>
+.ico网站logo
+FTP上传 FileZilla
 命令框    window+R
 
 使用git做笔记
