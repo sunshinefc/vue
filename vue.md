@@ -20,3 +20,7 @@ sass 监听node-sass  -w  index.scss  index.css  --output-style  expanded
        git merge master
        git push --set-upstream origin gh-pages 用户名 密码
  </pre>
+三、JDK Tomcat配置环境变量
+    JDK  JAVA_HOME  路径  path 路径\bin
+    Tomcat CATALINA_HOME 路径 path 路径\bin
+    cmd 运行jdkc
