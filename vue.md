@@ -24,3 +24,6 @@ sass 监听node-sass  -w  index.scss  index.css  --output-style  expanded
     JDK  JAVA_HOME  路径  path 路径\bin
     Tomcat CATALINA_HOME 路径 path 路径\bin
     cmd 运行jdkc
+    
+    
+    发送请求测试接口  postman
